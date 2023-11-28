@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJPoldon
 - I'm a Structural Designer at rjc Engineers
-- I want to learn more about coding
+- I want to learn more about coding and slowly take over the wor...
 
 <!---
 JJPoldon/JJPoldon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
